@@ -1,7 +1,7 @@
 ## Olá eu sou o Relancio
 - 👀 **Atualmente estou interessando em estudar Front-End**
 - 🌱 **Estudando React e React Native**
-- 🎓 **Cursando o 4º Semestre Eng Computação, UNITAU**
+- 🎓 **Cursando o 5º Semestre Eng Computação, UNITAU**
 
  <div>
   <a href="https://github.com/RelancioBorgesDev">

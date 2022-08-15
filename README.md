@@ -1,7 +1,4 @@
 ## Olá eu sou o Relancio
-- 👀 **Atualmente estou interessando em estudar Front-End**
-- 🎓 **Cursando o 5º Semestre Eng Computação, UNITAU**
-
  <div>
   <a href="https://github.com/RelancioBorgesDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RelancioBorgesDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
